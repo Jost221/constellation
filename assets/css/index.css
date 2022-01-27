@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body{
+    margin: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-image: url("../img/space.jpeg");
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.top_line{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 7.8vh;
+    margin-top: -15vh;
+}
+
+#actve_page{
+    color: rgb(255, 255, 255);
+    background-color: #964b00;
+    padding: 3vh;
+    padding-left: 3.5vh;
+    padding-right: 3.5vh;
+}
+
+.welcome {
+    justify-content: center;
+    width: 60vw;
+    margin: auto;
+    margin-bottom: 70px;
+    border-radius: 10px;
+    border: solid;
+    border-color: transparent;
+    margin-top: 15vh;
+    height: 30vh;
+    display:flex;
+    color: white;
+    font-size: 4vh;
+}
+
+h1{
+    border: solid 0px;
+    align-self: center;
+    font-size: 1.8em;
+}
+
+.introduction_story{
+    display: flex;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    justify-content: space-evenly;
+    align-items: center;
+    border: solid 20x;
+}
+
+.introductions_text{
+    width: 80vh;
+    color: rgb(0, 0, 0);
+}
+
+#astronom{
+    width: 40vh;
+    height: 30vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+}
+
+.content{
+    background-color: white;
+}
+
+.introductions{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    flex-direction: column;
+    background-color: rgb(255, 255, 255);
+    margin: 0px;
+    margin-left: 0vh;
+}
+
+.introductions_date_first{
+    margin-left: 100vh;
+}
+
+.introductions_date_second{
+    margin-left: -105vh;
+}
+
+.line{
+    border: solid;
+    background-color: white;
+    margin-bottom: 0px;
+    margin-left: 0vh;
+    border-color: white;
+    width: 125vh;
+    height: 15px;
+}
+
+.first{
+    display: flex;
+    justify-content: center; 
+    background-color: rgb(255, 255, 255);
+    color: rgb(7, 7, 7);
+    align-items: center;
+}
+
+.flex_block{
+    display: flex;
+    justify-content: center; 
+    background-color: rgb(255, 255, 255);
+    color: rgb(7, 7, 7);
+    align-items: center;
+}
+
+.first_img {
+    height: 40vh;
+    width: 55vh;
+    margin-right: 10vh; 
+}
+
+.second_img{
+    height: 40vh;
+    width: 55vh;
+    margin-left: 10vh; 
+}
+
+.first_text {
+    margin-right: 10vh;
+} 
+
+p{
+    width: 25%;
+    font-size: 1.8em;
+}
+
+.otstup{
+    font-size: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+a{
+    color: rgba(207, 90, 90, 0.39);
+    text-decoration: none;
+}
+
+a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
